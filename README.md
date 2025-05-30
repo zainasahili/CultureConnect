@@ -18,9 +18,9 @@ CultureConnect is a platform designed to make trusted, locally sourced cultural 
                                     Frontend: HTML/CSS 
                                                │
                                                ▼
-                              [Backend API: Node.js]
+                                  Backend API: Node.js
                                               │
-             ┌────────────────────────────────┴─────────────┐
-             ▼                                              ▼
-MySQL: Countries, Facts, Categories    MongoDB: Full cultural descriptions
+             ┌────────────────────────────────┴────────────────┐
+             ▼                                                 ▼
+    MySQL: Countries, Facts, Categories    MongoDB: Full cultural descriptions
 
